@@ -1,0 +1,23 @@
+.Flag {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+
+.Eclipse {
+  border-radius: 50%;
+  height: 32px;
+  width: 32px;
+}
+
+.Verde {
+  background-color: #009246;
+}
+
+.Branco {
+  background-color: #ffffff;
+}
+
+.Vermelho {
+  background-color: #ce2b37;
+}
